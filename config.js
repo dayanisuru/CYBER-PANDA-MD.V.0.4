@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
-global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.Owner = ["+94776323185", "+94776422185"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94776312185", "+94776312185"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94776312185"];
+global.OwnerName = "ISURU";
+global.BotName = "ISURU";
+global.packname = "🦋 │ISURU│WHATSAPP│MG│𝐕BOT➂ 🦋";                             //Do not change.
+global.author = "ISURU";                               //Do not change.
+global.BotSourceCode = "https://whatsapp.com/channel/0029VaSxF9k6RGJNBBozhW0h"; //Do not change.
+global.SupportGroupLink = "https://whatsapp.com/channel/0029VaSxF9k6RGJNBBozhW0h";
 
 
 //
